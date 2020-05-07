@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+       
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: papayawhip;
+    text-align: center;
+    font-size: 45px;
+}
+p{
+    color: peachpuff;
+    text-align: center;
+    font-size: 30px;
+}
+.daKey{
+    font-size: 150px;
+}
